@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Call Me Maybe",
+  "base_artist": "Carly Rae Jepsen",
+  "createdAt": "2025-12-12T05:34:55.643028Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/01_Call_Me_Maybe_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/02_Call_Me_Maybe_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Call Me Maybe",
+      "artist": "Scott Bradlee & Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/03_Call_Me_Maybe_Scott_Bradlee_&_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Call Me Maybe",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/04_Call_Me_Maybe_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/05_Call_Me_Maybe_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Call Me Maybe (10 Kings vs Ollie Green Remix)",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": false,
+      "path": "select/06_Call_Me_Maybe_(10_Kings_vs_Ollie_Green_Remix)_Carly_Rae_Jepsen.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Call Me Maybe (Almighty Club Mix)",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": false,
+      "path": "select/07_Call_Me_Maybe_(Almighty_Club_Mix)_Carly_Rae_Jepsen.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Call Me Maybe - Almighty Mix Radio Edit",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/08_Call_Me_Maybe_-_Almighty_Mix_Radio_Edit_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Call Me Maybe - Coyote Kisses Remix",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/09_Call_Me_Maybe_-_Coyote_Kisses_Remix_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Call Me Maybe (DAISHI DANCE Remix)",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": false,
+      "path": "select/10_Call_Me_Maybe_(DAISHI_DANCE_Remix)_Carly_Rae_Jepsen.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Call Me Maybe (DJ Rich-Art Remix)",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": false,
+      "path": "select/11_Call_Me_Maybe_(DJ_Rich-Art_Remix)_Carly_Rae_Jepsen.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Call Me Maybe - Instrumental",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/12_Call_Me_Maybe_-_Instrumental_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Call Me Maybe (Instrumental)",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/13_Call_Me_Maybe_(Instrumental)_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Call Me Maybe (Manhattan Clique Remix)",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": false,
+      "path": "select/14_Call_Me_Maybe_(Manhattan_Clique_Remix)_Carly_Rae_Jepsen.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/15_Call_Me_Maybe_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": false,
+      "path": "select/pl_01_Call_Me_Maybe_Carly_Rae_Jepsen.txt"
+    }
+  ]
+}
